@@ -30,5 +30,10 @@ namespace EpitechTest
         {
             Console.WriteLine(base.name + " : My name will go down in history!");
         }
+
+        public void MoveRight()
+        {
+
+        }
     }
 }

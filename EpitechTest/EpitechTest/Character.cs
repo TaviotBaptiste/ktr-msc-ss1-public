@@ -1,7 +1,7 @@
 ﻿using System;
 namespace EpitechTest
 {
-    public abstract class Character
+    public abstract class Character : Movable
     {
         protected string name;
         protected int life;
@@ -52,5 +52,24 @@ namespace EpitechTest
             Console.WriteLine(this.name + " : Rrrrrrrrr....");
         }
 
+        public virtual void MoveRight()
+        {
+            Console.WriteLine(this.name + " : moves right");
+        }
+
+        public virtual void MoveLeft()
+        {
+            Console.WriteLine(this.name + " : moves left");
+        }
+
+        public virtual void MoveForward()
+        {
+            Console.WriteLine(this.name + " : moves forward");
+        }
+
+        public virtual void MoveBack()
+        {
+            Console.WriteLine(this.name + " : moves back");
+        }
     }
 }
