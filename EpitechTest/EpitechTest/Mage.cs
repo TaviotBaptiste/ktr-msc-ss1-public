@@ -30,5 +30,23 @@ namespace EpitechTest
         {
             Console.WriteLine(base.name + " : May the gods be with me.");
         }
+
+
+        public override void MoveRight()
+        {
+            Console.WriteLine(base.name + " : moves right furtively.");
+        }
+        public override void MoveLeft()
+        {
+            Console.WriteLine(base.name + " : moves left furtively.");
+        }
+        public override void MoveForward()
+        {
+            Console.WriteLine(base.name + " : moves forward furtively.");
+        }
+        public override void MoveBack()
+        {
+            Console.WriteLine(base.name + " : moves back furtively.");
+        }
     }
 }

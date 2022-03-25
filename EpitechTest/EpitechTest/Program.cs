@@ -18,10 +18,25 @@ namespace EpitechTest
             //perso.Attack("my weapon");
 
             //STEP 02
-            Character warrior = new Warrior("Jean-Luc", "Warrior");
-            Character mage = new Mage("Robert", "Mage");
-            warrior.Attack("hammer");
-            mage.Attack("magic");
+            //Character warrior = new Warrior("Jean-Luc", "Warrior");
+            //Character mage = new Mage("Robert", "Mage");
+            //warrior.Attack("hammer");
+            //mage.Attack("magic");
+
+
+            //SETP 03
+
+            //SETP 04
+            Warrior warrior = new Warrior("Jean-Luc", "Warrior");
+            Mage mage = new Mage("Robert", "Mage");
+            warrior.MoveRight();
+            warrior.MoveLeft();
+            warrior.MoveBack();
+            warrior.MoveForward();
+            mage.MoveRight();
+            mage.MoveLeft();
+            mage.MoveBack();
+            mage.MoveForward();
         }
     }
 }

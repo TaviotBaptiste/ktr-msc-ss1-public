@@ -31,9 +31,21 @@ namespace EpitechTest
             Console.WriteLine(base.name + " : My name will go down in history!");
         }
 
-        public void MoveRight()
+        public override void MoveRight()
         {
-
+            Console.WriteLine(base.name + " : moves right like a bad boy.");
+        }
+        public override void MoveLeft()
+        {
+            Console.WriteLine(base.name + " : moves left like a bad boy.");
+        }
+        public override void MoveForward()
+        {
+            Console.WriteLine(base.name + " : moves forward like a bad boy.");
+        }
+        public override void MoveBack()
+        {
+            Console.WriteLine(base.name + " : moves back like a bad boy.");
         }
     }
 }
