@@ -1,0 +1,13 @@
+/Users/baptistetaviot/Documents/Professionel/ktr-msc-ss1/EpitechTest/EpitechTest/bin/Debug/netcoreapp3.1/EpitechTest.deps.json
+/Users/baptistetaviot/Documents/Professionel/ktr-msc-ss1/EpitechTest/EpitechTest/bin/Debug/netcoreapp3.1/EpitechTest.runtimeconfig.json
+/Users/baptistetaviot/Documents/Professionel/ktr-msc-ss1/EpitechTest/EpitechTest/bin/Debug/netcoreapp3.1/EpitechTest.runtimeconfig.dev.json
+/Users/baptistetaviot/Documents/Professionel/ktr-msc-ss1/EpitechTest/EpitechTest/bin/Debug/netcoreapp3.1/EpitechTest.dll
+/Users/baptistetaviot/Documents/Professionel/ktr-msc-ss1/EpitechTest/EpitechTest/bin/Debug/netcoreapp3.1/EpitechTest.pdb
+/Users/baptistetaviot/Documents/Professionel/ktr-msc-ss1/EpitechTest/EpitechTest/obj/Debug/netcoreapp3.1/EpitechTest.csproj.AssemblyReference.cache
+/Users/baptistetaviot/Documents/Professionel/ktr-msc-ss1/EpitechTest/EpitechTest/obj/Debug/netcoreapp3.1/EpitechTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baptistetaviot/Documents/Professionel/ktr-msc-ss1/EpitechTest/EpitechTest/obj/Debug/netcoreapp3.1/EpitechTest.AssemblyInfoInputs.cache
+/Users/baptistetaviot/Documents/Professionel/ktr-msc-ss1/EpitechTest/EpitechTest/obj/Debug/netcoreapp3.1/EpitechTest.AssemblyInfo.cs
+/Users/baptistetaviot/Documents/Professionel/ktr-msc-ss1/EpitechTest/EpitechTest/obj/Debug/netcoreapp3.1/EpitechTest.csproj.CoreCompileInputs.cache
+/Users/baptistetaviot/Documents/Professionel/ktr-msc-ss1/EpitechTest/EpitechTest/obj/Debug/netcoreapp3.1/EpitechTest.dll
+/Users/baptistetaviot/Documents/Professionel/ktr-msc-ss1/EpitechTest/EpitechTest/obj/Debug/netcoreapp3.1/EpitechTest.pdb
+/Users/baptistetaviot/Documents/Professionel/ktr-msc-ss1/EpitechTest/EpitechTest/obj/Debug/netcoreapp3.1/EpitechTest.genruntimeconfig.cache

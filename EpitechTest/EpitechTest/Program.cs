@@ -6,7 +6,16 @@ namespace EpitechTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+
+            Character perso = new TestClass("Jean-Luc");
+            Console.WriteLine(perso.getName);
+            Console.WriteLine(perso.getLife);
+            Console.WriteLine(perso.getAgility);
+            Console.WriteLine(perso.getStrength);
+            Console.WriteLine(perso.getWit);
+            Console.WriteLine(perso.getRPGCLASS);
+            perso.Attack("my weapon");
         }
     }
 }
