@@ -17,6 +17,7 @@ namespace EpitechTest
             this.agility = 2;
             this.strength = 2;
             this.wit = 2;
+
         }
 
 

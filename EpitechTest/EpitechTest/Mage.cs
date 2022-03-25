@@ -5,6 +5,7 @@ namespace EpitechTest
 {
     public class Mage : Character
     {
+        protected new const string RPGClASS = "Mage";
         private List<string> weapons = new List<string> { "magic", "wand" };
 
         public Mage(string name, string RPGCLASS) : base(name, RPGClASS)
@@ -22,6 +23,10 @@ namespace EpitechTest
             {
                 base.Attack(weapon);
                 Console.WriteLine(base.name + " : Feel the power of my  " + weapon + " !");
+            }
+            else
+            {
+                throw new ArgumentNullException("Error Weapon");
             }
 
         }

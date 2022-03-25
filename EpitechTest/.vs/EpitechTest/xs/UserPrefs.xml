@@ -1,15 +1,19 @@
 ﻿<Properties StartupConfiguration="{C5DC0DBE-6372-4D8F-8699-D4379F5BA41E}|Default">
   <MonoDevelop.Ide.ItemProperties.EpitechTest PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="EpitechTest/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EpitechTest/Warrior.cs">
     <Files>
-      <File FileName="EpitechTest/Program.cs" Line="29" Column="22" />
+      <File FileName="EpitechTest/exceptions/WeaponException.cs" Line="25" Column="10" />
+      <File FileName="EpitechTest/Mage.cs" Line="25" Column="56" />
+      <File FileName="EpitechTest/Character.cs" Line="1" Column="1" />
+      <File FileName="EpitechTest/Warrior.cs" Line="30" Column="54" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EpitechTest" expanded="True">
             <Node name="EpitechTest" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="exceptions" expanded="True" />
+              <Node name="Warrior.cs" selected="True" />
             </Node>
           </Node>
         </State>

@@ -6,7 +6,7 @@ namespace EpitechTest
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("TEST");
             //STEP 01
             //Character perso = new TestClass("Jean-Luc","Character");
             //Console.WriteLine(perso.getName);
