@@ -2,11 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.EpitechTest PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="EpitechTest/Program.cs">
     <Files>
-      <File FileName="EpitechTest/Program.cs" Line="26" Column="1" />
-      <File FileName="EpitechTest/Character.cs" Line="70" Column="24" />
-      <File FileName="EpitechTest/Warrior.cs" Line="34" Column="25" />
-      <File FileName="EpitechTest/Mage.cs" Line="31" Column="47" />
-      <File FileName="EpitechTest/Movable.cs" Line="8" Column="25" />
+      <File FileName="EpitechTest/Program.cs" Line="29" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

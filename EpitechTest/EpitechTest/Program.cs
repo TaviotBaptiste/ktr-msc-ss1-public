@@ -27,16 +27,16 @@ namespace EpitechTest
             //SETP 03
 
             //SETP 04
-            Warrior warrior = new Warrior("Jean-Luc", "Warrior");
-            Mage mage = new Mage("Robert", "Mage");
-            warrior.MoveRight();
-            warrior.MoveLeft();
-            warrior.MoveBack();
-            warrior.MoveForward();
-            mage.MoveRight();
-            mage.MoveLeft();
-            mage.MoveBack();
-            mage.MoveForward();
+            //Warrior warrior = new Warrior("Jean-Luc", "Warrior");
+            //Mage mage = new Mage("Robert", "Mage");
+            //warrior.MoveRight();
+            //warrior.MoveLeft();
+            //warrior.MoveBack();
+            //warrior.MoveForward();
+            //mage.MoveRight();
+            //mage.MoveLeft();
+            //mage.MoveBack();
+            //mage.MoveForward();
         }
     }
 }

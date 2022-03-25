@@ -71,5 +71,10 @@ namespace EpitechTest
         {
             Console.WriteLine(this.name + " : moves back");
         }
+
+        public virtual void Unsheathe()
+        {
+            Console.WriteLine(this.name + " unsheathes his weapon.");
+        }
     }
 }
