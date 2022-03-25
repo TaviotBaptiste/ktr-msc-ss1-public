@@ -1,17 +1,19 @@
 ﻿<Properties StartupConfiguration="{C5DC0DBE-6372-4D8F-8699-D4379F5BA41E}|Default">
-  <MonoDevelop.Ide.ItemProperties.EpitechTest FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="EpitechTest/TestClass.cs">
+  <MonoDevelop.Ide.ItemProperties.EpitechTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EpitechTest/Mage.cs">
     <Files>
-      <File FileName="EpitechTest/Program.cs" Line="1" Column="1" />
-      <File FileName="EpitechTest/Character.cs" Line="31" Column="45" />
-      <File FileName="EpitechTest/TestClass.cs" Line="4" Column="28" />
+      <File FileName="EpitechTest/Program.cs" Line="20" Column="22" />
+      <File FileName="EpitechTest/Character.cs" Line="23" Column="37" />
+      <File FileName="EpitechTest/TestClass.cs" Line="12" Column="37" />
+      <File FileName="EpitechTest/Warrior.cs" Line="4" Column="37" />
+      <File FileName="EpitechTest/Mage.cs" Line="4" Column="28" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EpitechTest" expanded="True">
             <Node name="EpitechTest" expanded="True">
-              <Node name="TestClass.cs" selected="True" />
+              <Node name="Mage.cs" selected="True" />
             </Node>
           </Node>
         </State>

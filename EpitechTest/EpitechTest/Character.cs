@@ -47,7 +47,7 @@ namespace EpitechTest
 
         public string getRPGCLASS { get => RPGClASS; }
 
-        public void Attack(string test)
+        public virtual void Attack(string test)
         {
             Console.WriteLine(this.name + " : Rrrrrrrrr....");
         }
