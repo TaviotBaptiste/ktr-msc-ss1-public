@@ -8,7 +8,7 @@ namespace EpitechTest
         {
 
 
-            Character perso = new TestClass("Jean-Luc");
+            Character perso = new TestClass("Jean-Luc","Character");
             Console.WriteLine(perso.getName);
             Console.WriteLine(perso.getLife);
             Console.WriteLine(perso.getAgility);
